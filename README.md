@@ -26,5 +26,4 @@ To understand what drives revenue for an online retailer: which products, countr
 -  November generated the highest monthly revenue. 
 -  United Kingdom  contributed most sales. 
 -  A small number of products generated a large percentage of revenue. 
--  Seasonal product performed strongly during peak months. 
-```
+-  Seasonal product performed strongly during peak months.  
