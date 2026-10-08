@@ -22,11 +22,11 @@ To understand what drives revenue for an online retailer: which products, countr
 3. Built a Power BI dashboard with KPIs, charts, and slicers
 
 ## 📈 Key Insights
-- 1. Total Revenue reached 10.33M.
-- 2. November generated the highest monthly revenue. 
-- 3. United Kingdom  contributed most sales. 
-- 4. A small number of products generated a large percentage of revenue. 
-- 5. Seasonal product performed strongly during peak months. 
+-  Total Revenue reached 10.33M.
+-  November generated the highest monthly revenue. 
+-  United Kingdom  contributed most sales. 
+-  A small number of products generated a large percentage of revenue. 
+-  Seasonal product performed strongly during peak months. 
 
 ```
 
