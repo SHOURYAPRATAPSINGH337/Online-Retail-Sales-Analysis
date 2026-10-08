@@ -29,7 +29,3 @@ To understand what drives revenue for an online retailer: which products, countr
 -  Seasonal product performed strongly during peak months. 
 
 ```
-
-## 👤 Author
-**Shourya Pratap Singh**
-📧 shouryapratapsingh@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/shourya-pratap-singh-bbb348327)
